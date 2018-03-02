@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogre Emblem", "Ogre Emblem.csproj", "{F98DC270-8D5F-9DFD-76D9-40F09B19F718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogre Emblem.Editor", "Ogre Emblem.Editor.csproj", "{5F2CCB8E-3291-3558-71DB-1AC3FABEAD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98DC270-8D5F-9DFD-76D9-40F09B19F718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98DC270-8D5F-9DFD-76D9-40F09B19F718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98DC270-8D5F-9DFD-76D9-40F09B19F718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98DC270-8D5F-9DFD-76D9-40F09B19F718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2CCB8E-3291-3558-71DB-1AC3FABEAD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2CCB8E-3291-3558-71DB-1AC3FABEAD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2CCB8E-3291-3558-71DB-1AC3FABEAD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2CCB8E-3291-3558-71DB-1AC3FABEAD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
